@@ -1,0 +1,11 @@
+Added Component: Designator=X4(RJ11_4P4C)
+Add component (AddParameter): Name = "Contact_1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = "SDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_3"; Value = "SCL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_4"; Value = "VCC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X4-1
+Added Pin To Net: NetName=NetD1_6 Pin=X4-2
+Added Pin To Net: NetName=NetD1_5 Pin=X4-3
+Added Pin To Net: NetName=+3V3 Pin=X4-4
+Added Member To Class: ClassName=Page1 Member=Component C1 #NAME?
+Added Member To Class: ClassName=Page1 Member=Component X4 i2c

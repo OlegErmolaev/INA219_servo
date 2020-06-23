@@ -1,0 +1,127 @@
+Added Component: Designator=C1(CAP: 1206)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-10-50V_C82601.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC1206KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "#NAME?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOT23-8)
+Add component (AddParameter): Name = "Help URL"; Value = "https://lcsc.com/product-detail/PMIC-Current-Power-Monitors-Regulators_Texas-Instruments_INA219AIDCNR_Texas-Instruments-Texas-Instruments-INA219AIDCNR_C87469.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "INA219AIDCNR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "INA219AIDCNR"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R2010)
+Add component (AddParameter): Name = "Case"; Value = "2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Help URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Vishay-Intertech-WSLP20102L000FEA_C413487.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "WSLP20102L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "WSLP20102L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.002"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1206)
+Add component (AddParameter): Name = "Case"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Help URL"; Value = "https://lcsc.com/product-detail/_RC1206FR-070RL_C137394.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "RC1206FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "RC1206FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R1206)
+Add component (AddParameter): Name = "Case"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Help URL"; Value = "https://lcsc.com/product-detail/_RC1206FR-070RL_C137394.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "RC1206FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "RC1206FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R1206)
+Add component (AddParameter): Name = "Case"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Help URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C132649.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R1206)
+Add component (AddParameter): Name = "Case"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Help URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C132649.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R1206)
+Add component (AddParameter): Name = "Case"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Help URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C132649.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R1206)
+Add component (AddParameter): Name = "Case"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Help URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C132649.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=X1(PLS-3)
+Add component (AddParameter): Name = "Contact_1"; Value = "Signal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_3"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Help URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X2(PLS-3)
+Add component (AddParameter): Name = "Contact_1"; Value = "Signal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_3"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Help URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X3(RJ11_4P4C)
+Add component (AddParameter): Name = "Contact_1"; Value = "3V3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = "SCL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_3"; Value = "SDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_4"; Value = "GND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C1-2
+Added Pin To Net: NetName=+3V3 Pin=D1-4
+Added Pin To Net: NetName=+3V3 Pin=R2-2
+Added Pin To Net: NetName=+3V3 Pin=R3-2
+Added Pin To Net: NetName=+3V3 Pin=R6-2
+Added Pin To Net: NetName=+3V3 Pin=R7-2
+Added Pin To Net: NetName=+3V3 Pin=X3-1
+Added Net: Name=+3V3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X3-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Pin To Net: NetName=NetD1_1 Pin=X1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Pin To Net: NetName=NetD1_2 Pin=X2-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_5 Pin=D1-5
+Added Pin To Net: NetName=NetD1_5 Pin=R6-1
+Added Pin To Net: NetName=NetD1_5 Pin=X3-2
+Added Net: Name=NetD1_5
+Added Pin To Net: NetName=NetD1_6 Pin=D1-6
+Added Pin To Net: NetName=NetD1_6 Pin=R7-1
+Added Pin To Net: NetName=NetD1_6 Pin=X3-3
+Added Net: Name=NetD1_6
+Added Pin To Net: NetName=NetD1_7 Pin=D1-7
+Added Pin To Net: NetName=NetD1_7 Pin=R3-1
+Added Pin To Net: NetName=NetD1_7 Pin=R4-2
+Added Net: Name=NetD1_7
+Added Pin To Net: NetName=NetD1_8 Pin=D1-8
+Added Pin To Net: NetName=NetD1_8 Pin=R2-1
+Added Pin To Net: NetName=NetD1_8 Pin=R5-2
+Added Net: Name=NetD1_8
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X2-1
+Added Net: Name=NetX1_1
+Added Class: Name=Page1

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetD1_5 Pin=R6-1
+Removed Pin From Net: NetName=NetD1_6 Pin=R7-1
+Removed Pin From Net: NetName=+3V3 Pin=X3-1
+Removed Pin From Net: NetName=NetD1_5 Pin=X3-2
+Removed Pin From Net: NetName=NetD1_6 Pin=X3-3
+Removed Pin From Net: NetName=GND Pin=X3-4
+Change Component Comment : Designator=R1 Old Comment=0.002 New Comment=0.05
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R2010"; UniqueID = "\WCHYVFXM" ("\WCHYVFXM")
+Change component parameters (AddParameter): Name = "Case"; Value = "2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Help URL"; Value = "https://lcsc.com/product-detail/Others_YAGEO-RL2010FK-070R05L_C309643.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturing"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Model"; Value = "RL2010FK-070R05L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part number"; Value = "RL2010FK-070R05L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.05"; VariantName = "[No Variations]"
+Added Component: Designator=X3(RJ11_4P4C)
+Add component (AddParameter): Name = "Contact_1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = "SDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_3"; Value = "SCL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_4"; Value = "VCC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_6 Pin=R6-1
+Added Pin To Net: NetName=NetD1_5 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=X3-1
+Added Pin To Net: NetName=NetD1_6 Pin=X3-2
+Added Pin To Net: NetName=NetD1_5 Pin=X3-3
+Added Pin To Net: NetName=+3V3 Pin=X3-4

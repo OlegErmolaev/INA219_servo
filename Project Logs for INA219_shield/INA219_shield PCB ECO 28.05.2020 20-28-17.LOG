@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+3V3 Pin=X3-1
+Removed Pin From Net: NetName=NetD1_5 Pin=X3-2
+Removed Pin From Net: NetName=NetD1_6 Pin=X3-3
+Removed Pin From Net: NetName=GND Pin=X3-4
+Change Component Comment : Designator=R1 Old Comment=0.002 New Comment=0.05
+Added Component: Designator=X3(RJ11_4P4C)
+Add component (AddParameter): Name = "Contact_1"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = "SDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_3"; Value = "SCL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_4"; Value = "VCC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X3-1
+Added Pin To Net: NetName=NetD1_6 Pin=X3-2
+Added Pin To Net: NetName=NetD1_5 Pin=X3-3
+Added Pin To Net: NetName=+3V3 Pin=X3-4
+Added Member To Class: ClassName=Page1 Member=Component X3 i2c
